@@ -2,7 +2,6 @@
 - 👀 I’m interested in economics and fin-tech.
 - 🌱 I’m currently learning go, solidity, nodejs, and python.
 
-- timdinan.me
 
 <!---
 TimdinanCSUF/TimdinanCSUF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
